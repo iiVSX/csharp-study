@@ -1,0 +1,15 @@
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/obj/Debug/net8.0/CSharpStudy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/obj/Debug/net8.0/CSharpStudy.AssemblyInfoInputs.cache
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/obj/Debug/net8.0/CSharpStudy.AssemblyInfo.cs
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/obj/Debug/net8.0/CSharpStudy.csproj.CoreCompileInputs.cache
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/obj/Debug/net8.0/CSharpStudy.sourcelink.json
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/bin/Debug/net8.0/CSharpStudy
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/bin/Debug/net8.0/CSharpStudy.deps.json
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/bin/Debug/net8.0/CSharpStudy.runtimeconfig.json
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/bin/Debug/net8.0/CSharpStudy.dll
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/bin/Debug/net8.0/CSharpStudy.pdb
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/obj/Debug/net8.0/CSharpStudy.dll
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/obj/Debug/net8.0/refint/CSharpStudy.dll
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/obj/Debug/net8.0/CSharpStudy.pdb
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/obj/Debug/net8.0/CSharpStudy.genruntimeconfig.cache
+/Users/iivsx/Desktop/csharp-study/CSharpStudy/CSharpStudy/obj/Debug/net8.0/ref/CSharpStudy.dll
