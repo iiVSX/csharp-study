@@ -2,7 +2,7 @@
 {
     class Nojam3273
     {
-        public static void Main(string[] args)
+        public static void Solution(string[] args)
         {
             int n, x;
             n = Int32.Parse(Console.ReadLine());
